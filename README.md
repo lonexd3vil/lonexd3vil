@@ -6,7 +6,7 @@
 
 - **Frontend:** React, TypeScript, HTML, CSS, JavaScript
 - **Backend:** Django, Python
-- **Databases:** MySQL, PostgreSQL, MongoDB
+- **Databases:** MySQL, PostgreSQL, MongoDB, Redis
 - **Libraries:** Redux, Three.js, Socket.io, Tailwind, Material UI, Bootstrap, RestFramework-JWT, Django-Channels, Django-MPTT
 - **Deployment/Hosting:** AWS, Vercel, Netlify, Render, Railway
 - **Productive Tool:** Figma, Lucid, Pitch, Xmind, Miro
