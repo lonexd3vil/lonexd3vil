@@ -36,7 +36,7 @@
 
 - Telegram: @unravler
 - Discord: @unravler
-- Email: (admin@unravler.eu.org)[mailto:admin@unravler.eu.org]
+- Email: [admin@unravler.eu.org](mailto:admin@unravler.eu.org)
 
 
 
