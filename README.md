@@ -15,7 +15,7 @@
 
 🌟 Discover my work on the web:
 
-[![My Agency](https://img.shields.io/badge/My%20Portfolio-unravler.eu.org-blue?style=for-the-badge&logo=appveyor)](https://unrmedia.framer.media/)
+[![My Agency](https://img.shields.io/badge/My%20Agency-unrmedia.framer.media-blue?style=for-the-badge&logo=appveyor)](https://unrmedia.framer.media/)
 
 - [Corsrex Alpha - Backend](https://corsrex-alpha.vercel.app)
 - [TMDB API - Backend](https://unr-tmdb.vercel.app/)
