@@ -4,11 +4,10 @@
 
 ### 🔭 Skills
 
-- **Frontend:** React, TypeScript, HTML, CSS, JavaScript
-- **Backend:** Django, Python
-- **Databases:** MySQL, PostgreSQL, MongoDB, Redis
-- **Libraries:** Redux, Three.js, Socket.io, Tailwind, Material UI, Bootstrap, RestFramework-JWT, Django-Channels, Django-MPTT, Celery
-- **Deployment/Hosting:** AWS, Vercel, Netlify, Render, Railway, Scaleway, Heroku
+- **Frontend:** React, Astro, Framer
+- **Backend:** Django, Python, Go, GoFiber
+- **Databases:** MySQL, PostgreSQL, MongoDB, Redis, libSQL
+- **Deployment/Hosting:** AWS, Vercel, Netlify, Render, Railway, Scaleway, Heroku, Cloudflare, Leapcell, Fly.io
 - **Productive Tool:** Figma, Lucid, Pitch, Xmind, Miro
 - **Version Control:** Git/Github
 
@@ -21,6 +20,10 @@
 - [Corsrex Alpha - Backend](https://corsrex-alpha.vercel.app)
 - [TMDB API - Backend](https://unr-tmdb.vercel.app/)
 - [Ecommerce Clone - FullStack](https://gpcustoms.vercel.app/)
+- [Minna - Clothing Brand](https://unrmedia.framer.media/minna-modern-clothing-brand/)
+- [Nira Estate - Real Estate Brand](https://unrmedia.framer.media/nirastate-real-estate-re-imagined)
+- [Luxury Hospitality - Hotel Ramaya Page](https://unrmedia.framer.media/luxury-hospitality-hotel-ramaya)
+- [unravler - Old Portfolio](https://unravler.eu.org)
 
 ### 💬 Contact
 
@@ -36,7 +39,7 @@
 
 - Telegram: @unravler
 - Discord: @unravler
-- Email: [admin@unravler.eu.org](mailto:admin@unravler.eu.org)
+- Email: [unrmedia.agency@gmail.com](mailto:unrmedia.agency@gmail.com)
 
 
 
