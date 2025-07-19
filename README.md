@@ -17,15 +17,14 @@
 
 [![My Agency](https://img.shields.io/badge/My%20Agency-unrmedia.framer.media-blue?style=for-the-badge&logo=appveyor)](https://unrmedia.framer.media/)
 
-- [unravler media - My Agency](https://unrmedia.framer.media/)
-- [Corsrex Alpha - Backend](https://corsrex-alpha.vercel.app)
+- unravler media - [My Agency](https://unrmedia.framer.media/)
+- Corsrex Alpha in Django - [Repo](https://github.com/lonexd3vil/corsrex-alpha) - [Backend](https://corsrex-alpha.vercel.app)
 - TMDB API in Django - [Repo](https://github.com/lonexd3vil/tmdb-api) - [Backend](https://unr-tmdb.vercel.app/)
-- [Ecommerce Clone - FullStack](https://gpcustoms.vercel.app/)
-- [Minna - Clothing Brand](https://unrmedia.framer.media/minna-modern-clothing-brand/)
-- [Nira Estate - Real Estate Brand](https://unrmedia.framer.media/nirastate-real-estate-re-imagined)
-- [Luxury Hospitality - Hotel Ramaya Page](https://unrmedia.framer.media/luxury-hospitality-hotel-ramaya)
-- [Aarambh - Where Tech meets Humans](https://aarambh-dummy.vercel.app/)
-- [unravler - Old Portfolio](https://unravler.eu.org)
+- Minna in Framer - [Clothing Brand](https://unrmedia.framer.media/minna-modern-clothing-brand/)
+- Nira Estate in Framer - [Real Estate Brand](https://unrmedia.framer.media/nirastate-real-estate-re-imagined)
+- Luxury Hospitality in Framer - [Hotel Ramaya](https://unrmedia.framer.media/luxury-hospitality-hotel-ramaya)
+- Aarambh in Go - [Where Tech meets Humans](https://aarambh-dummy.vercel.app/)
+- unravler in React - [Old Portfolio](https://unravler.eu.org)
 
 ### 💬 Contact
 
