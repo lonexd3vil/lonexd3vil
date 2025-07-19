@@ -6,7 +6,7 @@
 
 - **Frontend:** React, Astro, Framer
 - **Backend:** Django, Python, Go, GoFiber
-- **Databases:** MySQL, PostgreSQL, MongoDB, Redis, libSQL
+- **Databases:** MySQL, PostgreSQL, MongoDB, Redis, libSQL, Cassandra
 - **Deployment/Hosting:** AWS, Vercel, Netlify, Render, Railway, Scaleway, Heroku, Cloudflare, Leapcell, Fly.io
 - **Productive Tool:** Figma, Lucid, Pitch, Xmind, Miro
 - **Version Control:** Git/Github
@@ -23,6 +23,7 @@
 - [Minna - Clothing Brand](https://unrmedia.framer.media/minna-modern-clothing-brand/)
 - [Nira Estate - Real Estate Brand](https://unrmedia.framer.media/nirastate-real-estate-re-imagined)
 - [Luxury Hospitality - Hotel Ramaya Page](https://unrmedia.framer.media/luxury-hospitality-hotel-ramaya)
+- [Aarambh - Where Tech meets Humans](https://aarambh-dummy.vercel.app/)
 - [unravler - Old Portfolio](https://unravler.eu.org)
 
 ### 💬 Contact
